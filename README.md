@@ -38,7 +38,7 @@ Kode ini merupakan function(def) untuk menampilkan musik yang ada, menampilkkan 
 
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/8.png)
 
-Kode ini merupakan function(def) untuk menambah musik, menampilkkan judul menu dengan warna hijau, dan dapat menginput judul, artis, genre untuk menambahkan data ke dalam list, dan dengan append musik baru yang ditambahkan akan ditaruh di bagian terakhir dalam list utama musik, lalu kode untuk menampilkan pesan (Musik berhasil ditambahkan!) dengan sedikit jeda karena time.sleep
+Kode ini merupakan function(def) untuk menambah musik, menampilkkan judul menu dengan warna hijau, dan dapat menginput judul, artis, genre untuk menambahkan data ke dalam list, saat ingin menambahkan data musik baru harus ada (judul, artis, dan genrenya) jika salah tidak ada saat proses menambah maka akan tidak bisa ditambah dan muncul pesan data tidak boleh kosong(warna merah), dan dengan append musik baru yang ditambahkan akan ditaruh di bagian terakhir dalam list utama musik, lalu kode untuk menampilkan pesan (Musik berhasil ditambahkan!) dengan sedikit jeda karena time.sleep
 
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/9.png)
 
@@ -171,7 +171,8 @@ Ketika input pilihan di menu admin tidak valid
 
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/ubah%20musik%20admin%20tidak%20valid.png)
 
-Ketika ubah musik tidak valid
+![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/tambah%20musik%20tidak%20valid.png)
+Ketika tambah musik tidak valid
 
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/input%20genre%20admin%20tidak%20valid.png)
 

@@ -174,7 +174,7 @@ Ketika tambah musik tidak valid
 
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/input%20angka%20ubah%20musik%20tidak%20valid.png)
 
-Ketika input angka genre di menu admin tidak valid
+Ketika input angka ubah musik di menu admin tidak valid
 
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/input%20menu%20user%20tidak%20valid.png)
 

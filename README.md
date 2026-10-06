@@ -170,11 +170,11 @@ Ketika username dan password tidak valid
 Ketika input pilihan di menu admin tidak valid
 
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/tambah%20musik%20tidak%20valid.png)
-Ketika tambah musik tidak valid
+Ketika tambah musik tidak valid karena data ada kosong
 
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/input%20angka%20ubah%20musik%20tidak%20valid.png)
 
-Ketika input angka ubah musik di menu admin tidak valid
+Ketika input untuk ubah musik di menu admin tidak valid
 
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/ubah%20musik%20tidak%20valid.png)
 

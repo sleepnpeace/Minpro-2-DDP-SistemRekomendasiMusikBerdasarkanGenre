@@ -75,7 +75,6 @@ jika input 2 akan keluar dari program dan menampilkan pesan "terima kasih,  dan 
 jika input selain angka 1 dan 2 akan muncul pesan "pilihan menu tidak valid".
 
 
-
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/Flowchart%20menu%20admin.png)
 
 jika login ke menu admin akan terdapat pesan "selamat datang" dan dapat input 1-6
@@ -170,6 +169,7 @@ Ketika username dan password tidak valid
 Ketika input pilihan di menu admin tidak valid
 
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/tambah%20musik%20tidak%20valid.png)
+
 Ketika tambah musik tidak valid karena data ada yang kosong
 
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/input%20angka%20ubah%20musik%20tidak%20valid.png)
@@ -182,7 +182,7 @@ Ketika ubah musik tidak valid karena data ada yang kosong
 
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/input%20genre%20admin%20tidak%20valid.png)
 
-Ketik input genre tidak valid untuk menu admin
+Ketika input genre tidak valid untuk menu admin
 
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/input%20menu%20user%20tidak%20valid.png)
 

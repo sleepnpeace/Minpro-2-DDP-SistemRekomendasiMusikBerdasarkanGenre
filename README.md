@@ -46,7 +46,7 @@ Kode ini merupakan function(def) untuk memilih nomor musik yang tersedia.program
 
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/10.png)
 
-Kode ini merupakan function(def) untuk ubah musik, menampilkkan judul menu dengan warna kuning, terdapat conditional statement yaitu, jika belum ada data akan menampilkan pesan "Belum ada data musik.", tetapi jika ada (minimal 1) akan menampilkan list musik dengan judul[0], artis[1], genre[2], terdapat perulangan (for i) dan penomoran otomatis yang dimulai dari 1(enumerate) bukan 0, jika musik berhasil di ubah akan terdapat pesan "musik berhasil diubah" dengan sedikit jeda karena time.sleep
+Kode ini merupakan function(def) untuk ubah musik, menampilkkan judul menu dengan warna kuning, terdapat conditional statement yaitu, jika belum ada data akan menampilkan pesan "Belum ada data musik.", tetapi jika ada (minimal 1) akan menampilkan list musik dengan judul[0], artis[1], genre[2], terdapat perulangan (for i) dan penomoran otomatis yang dimulai dari 1(enumerate) bukan 0, jika musik berhasil di ubah akan terdapat pesan "musik berhasil diubah" dengan sedikit jeda karena time.sleep, musik harus diubah judul, artis, dan genrenya jika salah satu data kosong akan muncul pesan "Data tidak boleh kosong" dan data gagal diubah 
 
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/11.png)
 
@@ -174,17 +174,17 @@ Ketika input pilihan di menu admin tidak valid
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/tambah%20musik%20tidak%20valid.png)
 Ketika tambah musik tidak valid
 
-![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/input%20genre%20admin%20tidak%20valid.png)
+![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/input%20angka%20ubah%20musik%20tidak%20valid.png)
 
-Ketika input genre di menu admin tidak valid
+Ketika input angka genre di menu admin tidak valid
 
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/input%20menu%20user%20tidak%20valid.png)
 
 Ketika input menu user tidak valid
 
-![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/input%20genre%20user%20tidak%20valid.png)
+![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/ubah%20musik%20tidak%20valid.png)
 
-Ketik input genre di menu user tidak valid
+Ketik ubah genre di menu user tidak valid
 
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/output%2014.png)
 

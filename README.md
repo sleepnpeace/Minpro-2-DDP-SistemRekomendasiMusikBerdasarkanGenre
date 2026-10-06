@@ -111,7 +111,7 @@ Menu awal program terdapat judul dan waktu kapan program dijalankan saat itu jug
 
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/output%202.png)
 
-Menu login dan jika berhasil login menggunakan role admin dengan Ray sebagai username dan admin123 passwordnya dan terdapat pesan selsamat datang dan 6 pilihan serta input pilihannya
+Menu login dan jika berhasil login menggunakan role admin dengan Ray sebagai username dan admin123 passwordnya dan terdapat pesan selamat datang dan 6 pilihan serta input pilihannya
 
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/output%203.png)
 
@@ -131,7 +131,7 @@ Menu hapus musik dengan cara input 4 kemudian input nomor musik yang mau dihapus
 
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/output%207.png)
 
-Menu remendasi genre musik, ketika input genre, dan hasil musiknya berdasarkan genre
+Menu rekomendasi genre musik, ketika input genre, dan hasil musiknya berdasarkan genre
 
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/output%208.png)
 

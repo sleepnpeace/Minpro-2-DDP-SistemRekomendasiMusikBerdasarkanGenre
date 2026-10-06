@@ -180,11 +180,11 @@ Ketika input angka genre di menu admin tidak valid
 
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/input%20menu%20user%20tidak%20valid.png)
 
-Ketika input menu admin tidak valid karena data kosong
+Ketika input menu user tidak valid
 
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/ubah%20musik%20tidak%20valid.png)
 
-Ketik ubah genre di menu user tidak valid
+Ketik ubah genre di menu admin tidak valid  karena data kosong
 
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/output%2014.png)
 

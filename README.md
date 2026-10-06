@@ -157,6 +157,34 @@ Menu rekomendasi genre musik dengan cara input 2 dan input genre nya
 
 Ketika user logout dan kembali ke menu utama
 
+![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/input%20menu%20utama%20tidak%20valid.png)
+
+Ketika input menu utama tidak valid
+
+![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/input%20username%20dan%20password%20tidak%20valid.png)
+
+Ketika username dan password tidak valid
+
+![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/input%20menu%20admin%20tidak%20valid.png)
+
+Ketika input pilihan di menu admin tidak valid
+
+![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/ubah%20musik%20admin%20tidak%20valid.png)
+
+Ketika ubah musik tidak valid
+
+![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/input%20genre%20admin%20tidak%20valid.png)
+
+Ketika input genre di menu admin tidak valid
+
+![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/input%20menu%20user%20tidak%20valid.png)
+
+Ketika input menu user tidak valid
+
+![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/input%20genre%20user%20tidak%20valid.png)
+
+Ketik input genre di menu user tidak valid
+
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/output%2014.png)
 
 Ketika input 2 di menu utama dan program selesai dengan pesan terima kasih

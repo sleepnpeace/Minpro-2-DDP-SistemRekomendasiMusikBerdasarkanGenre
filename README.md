@@ -170,27 +170,27 @@ Ketika username dan password tidak valid
 Ketika input pilihan di menu admin tidak valid
 
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/tambah%20musik%20tidak%20valid.png)
-Ketika tambah musik tidak valid karena data ada kosong
+Ketika tambah musik tidak valid karena data ada yang kosong
 
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/input%20angka%20ubah%20musik%20tidak%20valid.png)
 
-Ketika input untuk ubah musik di menu admin tidak valid
+Ketika input untuk ubah musik tidak valid 
 
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/ubah%20musik%20tidak%20valid.png)
 
-Ketik ubah musik di menu admin tidak valid karena data kosong
+Ketika ubah musik tidak valid karena data ada yang kosong
 
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/input%20genre%20admin%20tidak%20valid.png)
 
-Ketik input genre di menu admin tidak 
+Ketik input genre tidak valid untuk menu admin
 
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/input%20menu%20user%20tidak%20valid.png)
 
-Ketika input menu user tidak valid
+Ketika input di menu user tidak valid 
 
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/input%20genre%20user%20tidak%20valid.png)
 
-Ketika input genre user tidak valid
+Ketika input genre tidak valid untuk menu user
 
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/output%2014.png)
 

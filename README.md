@@ -1,7 +1,9 @@
 # Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre
 
 Nama: Rafik Anugrah Yana
+
 Nim: 086
+
 Kelas: C 2026
 
 1.Penjelasan Kode
@@ -65,22 +67,96 @@ Kode ini merupakan function(def) untuk menu user, dan berfungsi untuk menampilka
 2.Penjelasan Alur Flowchart
 
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/Flowchart%20menu%20menu%20utama.png)
+
+Program mulai dari menu utama dengan 2 pilihan login dan keluar(keluar dari program) kemudian meinput 1-2, jika input 1 akan ke login dan meinput nama lalu input pasword kemudian terdapat decision jika berhasil akan masuk ke menu role masing masing jik username dan password tidak valid akan menampilkan pesan "username dan password salah" dan kembali lagi ke input username hingga login berhasil 
+
+jika input 2 akan keluar dari program dan menampilkan pesan "terima kasih,  dan program selesai
+
+jika input selain angka 1 dan 2 akan muncul pesan "pilihan menu tidak valid".
+
+
+
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/Flowchart%20menu%20admin.png)
+
+jika login ke menu admin akan terdapat pesan "selamat datang" dan dapat input 1-6
+
+jika input 1 akan masuk ke menu musik dan terdapat decision apakah data musik kosong, jika ya akan menampilkan pesan belum ada data musik, jika tidak akan menampilkan daftar musik dan kembali ke menu utama
+
+jika input 2 akan masuk ke menu tambah musik kemudian, input judul, input artis, input genre untuk menambahkan lagu lalu akan di proses untuk di tambahkan ke list musik, kemudian akan menampilkan pesan "musik berhasil ditambahkan" dan kembali ke menu utama
+
+jika input 3 akan masuk ke menu ubah kemudian terdapat decision apakah data musik kosong jika ya akan menampilkan pesan "belum ada data musik", jika tidak akan menampilkan musik yang ada, lalu ada decision input nomor untuk musik yang ingin diubah jika valid dapat, input judul, artis, dan genre baru dan akan diproses dan ketika sudah berhasil akan menampilkan pesan "musik berhasil diubah" dan kembali ke menu admin, jika nomor yang di input tidak valid akan terus gagal diubah dan kembali ke input nomor sampai benar
+
+jika input 4 akan masuk ke menu hapus musik, ada decision apakah data musik kosong? jika ya menampilkan pesan "belum ada data musik" jika tidak akan menampilkan daftar musik yang ada, lalu ada input nomor yang ingin dihapus jika valid musik terhapus dan kembali ke menu admin, jika tidak akan terus gagal dihapus dan harus input nomor sampai benar agar dapat dihapus
+
+jika input 5 akan masuk ke menu rekomendasi musik berdasarkan genre, terdapat proses untuk menampilkan genre yang ada, lalu input genre, jika genre ada akan menampilkan musik dengan genre tersebut serta artis dan judul musiknya, jika tidak akan menampilkan pesan "maaf genre musik tidak ada" lalu kembali ke menu admin
+
+jika input 6 akan logout dari menu admin dan menampilkan pesan logout berhasil dan kembali ke menu utama
+
+
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/Flowchart%20menu%20user.png)
+
+jika login ke menu user akan terdapat pesan "selamat datang" dan dapat input 1-3
+
+jika input 1 akan masuk ke menu musik dan terdapat decision apakah data musik kosong, jika ya akan menampilkan pesan belum ada data musik, jika tidak akan menampilkan daftar musik dan kembali ke menu utama
+
+jika input 2 akan masuk ke menu rekomendasi musik berdasarkan genre, terdapat proses untuk menampilkan genre yang ada, lalu input genre, jika genre ada akan menampilkan musik dengan genre tersebut serta artis dan judul musiknya, jika tidak akan menampilkan pesan "maaf genre musik tidak ada" lalu kembali ke menu user
+
+jika input 3 akan logout dari menu user dan menampilkan pesan logout berhasil dan kembali ke menu utama
 
 3.Penjelasan Output
 
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/output%201.png)
+
+Menu awal program terdapat judul dan waktu kapan program dijalankan saat itu juga, dan terdapat 2 pilihan login dan keluar serta input pilihan
+
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/output%202.png)
+
+Menu login dan jika berhasil login menggunakan role admin dengan Ray sebagai username dan admin123 passwordnya dan terdapat pesan selsamat datang dan 6 pilihan serta input pilihannya
+
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/output%203.png)
+
+Menu lihat semua daftar musik dengan cara input angka 1
+
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/output%204.png)
+
+Menu tambah musik dengan cara input angka 2 kemudian memasuki input judul,artis, dan genre, lalu hasil di daftar musik nya ketika sudah ditambah
+
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/output%205.png)
+
+Menu ubah musik dengan cara input 3 kemudian ubah judul, artis, dan genrenya, lalu hasil di daftar musik nya ketika sudah diubah 
+
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/output%206.png)
+
+Menu hapus musik dengan cara input 4 kemudian input nomor musik yang mau dihapus,  lalu hasil di daftar musik nya ketika sudah dihapus
+
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/output%207.png)
+
+Menu remendasi genre musik, ketika input genre, dan hasil musiknya berdasarkan genre
+
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/output%208.png)
+
+Fungsi dari library random nya yaitu musik yang di cari berdasarkan genrenya akan acak hasil susunannya
+
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/output%209.png)
+
+Ketika logout dari menu admin
+
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/output%2010.png)
+
+Ketika login dan masuk ke menu user menggunakan username "user" dan password "user123" dan terdapat pilihan 1-3 dan input nya
+
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/output%2011.png)
+
+Menu lihat semua musik dengan cara input angka 1 dan terhubung dengan list yang ada dan yang dari ditambahi, diubah, atau dihapus oleh admin
+
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/output%2012.png)
+
+Menu rekomendasi genre musik dengan cara input 2 dan input genre nya
+
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/output%2013.png)
+
+Ketika user logout dan kembali ke menu utama
+
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/output%2014.png)
+
+Ketika input 2 di menu utama dan program selesai dengan pesan terima kasih

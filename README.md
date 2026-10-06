@@ -169,8 +169,6 @@ Ketika username dan password tidak valid
 
 Ketika input pilihan di menu admin tidak valid
 
-![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/ubah%20musik%20admin%20tidak%20valid.png)
-
 ![alt text](https://github.com/sleepnpeace/Minpro-2-DDP-SistemRekomendasiMusikBerdasarkanGenre/blob/main/image/tambah%20musik%20tidak%20valid.png)
 Ketika tambah musik tidak valid
 

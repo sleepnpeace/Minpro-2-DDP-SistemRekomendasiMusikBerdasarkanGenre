@@ -97,7 +97,7 @@ jika input 6 akan logout dari menu admin dan menampilkan pesan logout berhasil d
 
 jika login ke menu user akan terdapat pesan "selamat datang" dan dapat input 1-3
 
-jika input 1 akan masuk ke menu musik dan terdapat decision apakah data musik kosong, jika ya akan menampilkan pesan belum ada data musik, jika tidak akan menampilkan daftar musik dan kembali ke menu utama
+jika input 1 akan masuk ke menu musik dan terdapat decision apakah data musik kosong, jika ya akan menampilkan pesan belum ada data musik, jika tidak akan menampilkan daftar musik dan kembali ke menu user
 
 jika input 2 akan masuk ke menu rekomendasi musik berdasarkan genre, terdapat proses untuk menampilkan genre yang ada, lalu input genre, jika genre ada akan menampilkan musik dengan genre tersebut serta artis dan judul musiknya, jika tidak akan menampilkan pesan "maaf genre musik tidak ada" lalu kembali ke menu user
 
